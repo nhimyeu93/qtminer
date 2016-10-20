@@ -1,0 +1,2 @@
+# qtminer
+miner Viet Nam
